@@ -17,6 +17,3 @@
 
 （稍后我会用 Quarto 把这个站点升级成博客/作品集 🎯）
 
-theme: minima
-title: 我的 GitHub 主页
-description: 记录学习与项目
